@@ -1,0 +1,47 @@
+﻿生成启动时间为 2015/5/17 22:25:08。
+     1>项目“C:\Users\maomao\Desktop\mywork\mywork.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\mywork.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         所有输出均为最新。
+         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _MBCS /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\mywork.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt myworkDlg.cpp
+         myworkDlg.cpp
+       ResourceCompile:
+         所有输出均为最新。
+       ManifestResourceCompile:
+         所有输出均为最新。
+       Link:
+         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\maomao\Desktop\mywork\Debug\mywork.exe" /INCREMENTAL /NOLOGO /MANIFEST /ManifestFile:"Debug\mywork.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\maomao\Desktop\mywork\Debug\mywork.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\maomao\Desktop\mywork\Debug\mywork.lib" /MACHINE:X86 Debug\mywork.res
+         Debug\mywork.exe.embed.manifest.res
+         Debug\aochang.obj
+         Debug\faxueyuan.obj
+         Debug\gongcao.obj
+         Debug\jianhu.obj
+         Debug\jisuanji.obj
+         Debug\spotdefine.obj
+         Debug\xiaoshiguan.obj
+         Debug\liuyiting.obj
+         Debug\meiyuan.obj
+         Debug\mywork.obj
+         Debug\myworkDlg.obj
+         Debug\paifang.obj
+         Debug\picture.obj
+         Debug\file.obj
+         Debug\stdafx.obj
+         Debug\tushuguan.obj
+         Debug\yinghua.obj
+         Debug\zhujiao.obj
+       Manifest:
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\mywork.exe.embed.manifest" /manifest Debug\mywork.exe.intermediate.manifest "C:\Program Files\Microsoft Visual Studio 10.0\VC\Include\Manifest\dpiaware.manifest"
+         所有输出均为最新。
+       LinkEmbedManifest:
+         所有输出均为最新。
+         mywork.vcxproj -> C:\Users\maomao\Desktop\mywork\Debug\mywork.exe
+       FinalizeBuildStatus:
+         正在删除文件“Debug\mywork.unsuccessfulbuild”。
+         正在对“Debug\mywork.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“C:\Users\maomao\Desktop\mywork\mywork.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:09.76
